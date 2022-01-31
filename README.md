@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @claudiubrb
+- 👀 I’m interested in Autodesk Inventor Api , ilogic , VBA, F# and C#
+- 🌱 I’m currently learning F# and C#
